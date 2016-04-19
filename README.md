@@ -1,0 +1,1 @@
+# non-spring-di-example
