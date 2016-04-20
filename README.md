@@ -5,7 +5,7 @@ Repo URL: https://github.com/springframeworkguru/non-spring-di-example
 **Assignment**
 <ol>
 <li>Create fork of this repo to your own github acct</li>
-<li>Convert Product Service Impl to use a Product DAO, and implement DAO</li>
+<li>Create a Product Service Impl (ProductServiceDaoImpl) to use a Product DAO, and implement DAO</li>
 <li>Update Product Service interface to have CRUD methods</li>
 <li>Add CRUD methods to Product controller. </li>
 <li>Create unit tests using anymous inner classes implementing Product Service.</li>
